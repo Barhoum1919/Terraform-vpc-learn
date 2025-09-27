@@ -22,8 +22,8 @@ terraform-aws-vpc
 
 1. **Clone the repository** :
    ```
-   git clone <repository-url>
-   cd terraform-aws-vpc
+   git clone  https://github.com/Barhoum1919/Terraform-vpc-learn.git
+   cd Terraform-vpc-learn
    ```
 
 2. **Initialize Terraform**:
