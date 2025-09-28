@@ -4,7 +4,7 @@ This is a learning project that demonstrates Infrastructure as Code (IaC) using 
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](IAC.png)
 
 The infrastructure includes:
 - VPC with DNS support enabled
