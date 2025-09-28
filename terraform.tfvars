@@ -1,0 +1,6 @@
+vpc_cidr = ""    # e.g "10.0.0.0/16"
+subnet_a_cidr = ""   # e.g"10.0.10.0/24"
+avail_zone =  "" # e.g"us-east-1a"
+aws_region = "" # e.g"us-east-1"
+env_prefix = "" # e.g"dev"
+my_ip = "MY_PUBLIC_IP"  # e.g"x.x.x.x/32" 
